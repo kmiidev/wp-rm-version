@@ -1,20 +1,20 @@
 <?php
 /*
  * Plugin Name: Remove Wordpress Version
- * Version: 0.1
- * Plugin URI: meadowsii.com
- * Description: A plugin to hide your wordpress version.
+ * Version: 0.2
+ * Plugin URI: https://github.com/kmiidev
+ * Description: A plugin to hide your wordpress sites version number.
  * Author: Kenny
  * Author URI: meadowsii.com
- * Requires at least: 4.0
+ * Requires at least: 4.3
  * Tested up to: 4.5
  *
  * Text Domain: rm-version
  * Domain Path: /lang/
  *
  * @package WordPress
- * @author Kenny
- * @since 0.1
+ * @author Kenny Meadows
+ * @since 0.2
  */
 
 if ( ! defined( 'ABSPATH' ) ) exit;
